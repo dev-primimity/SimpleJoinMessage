@@ -1,0 +1,21 @@
+# JoinMessage v1.0
+# Created by Primimity
+# Need a custom plugin? Discord me @primimity
+
+messages:
+  join: '&7[&a+&7] {name}'
+  quit: '&7[&c-&7] {name}'
+
+
+# You can use color codes (or formatting codes) by using the & symbol!
+# Also, you can use a players default name by doing {player}, or their display name by using {name}.
+
+
+# !!! TEMPLATES !!!
+
+# Default:    '&e{player} joined the game'
+# Hypixel:    '&b{name} &6joined the lobby!'
+# Sleek:      '&7[&a+&7] {name}'
+# Fun:        '&c&l>&a&l>&b&l> &6{player} &ehas joined the game! &b&l<&a&l<&c&l<'
+# Mysterious: '&7&k{player}&8 joined the game'
+# Disabled:   ''

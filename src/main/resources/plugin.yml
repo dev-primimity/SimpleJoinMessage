@@ -1,0 +1,9 @@
+main: me.primimity.joinMessage.Main
+
+name: SimpleJoinMessage
+version: 1.0
+description: 'This is a configurable replacement to the default yellow join/leave message.'
+api-version: '1.21'
+
+author: Primimity
+website: https://discord.com/users/primimity
