@@ -1,4 +1,4 @@
-# SimpleJoinMessage
+# SimpleJoinMessage v1.0
 
 <img width="854" height="480" alt="2025-08-14_20 52 55" src="https://github.com/user-attachments/assets/0f7bd422-b3fb-45e0-90ad-de76621b9c28" />
 
